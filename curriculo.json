@@ -1,0 +1,67 @@
+{
+  "nome": "Felipe Rodrigues",
+  "endereco": "Rua Ribeiro Salgado, Andrelândia, MG",
+  "telefone": "35999835233",
+  "email": "feliperodriguese@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/felipe-rodrigues-299aa817b/",
+  "github": "https://github.com/felipehrodrigues",
+  "resumo": "Graduado em Administração Pública, com experiência na área administrativa, conhecimento em Pacote Office e Adobe Photoshop. Possuo uma forte capacidade de aprendizado e amplo conhecimento em informática. Atualmente, estudante de Análise e Desenvolvimento de Sistemas.",
+  "objetivo": "Em busca de oportunidade, de forma a contribuir para o crescimento da empresa.",
+  "experiencias": [
+    {
+      "cargo": "Auxiliar de Escritório",
+      "empresa": "Supermercado Nogueira",
+      "periodo": "03/2015 - 01/2025",
+      "atividades": [
+        "Execução de rotinas administrativas, atendimento telefônico, controle de documentos, criação de planilhas e elaboração de relatórios.",
+        "Emissão e lançamento de notas fiscais (vendas, transferências, devoluções, entradas), com fechamento fiscal mensal.",
+        "Criação de materiais promocionais com Adobe Photoshop.",
+        "Suporte na área de TI para solução de problemas técnicos e otimização de processos digitais."
+      ]
+    },
+    {
+      "cargo": "Repositor - Empacotador",
+      "empresa": "Supermercado Nogueira",
+      "periodo": "12/2014 - 03/2015",
+      "atividades": [
+        "Reposição de produtos conforme layout da loja.",
+        "Atendimento ao cliente, esclarecimento de dúvidas e localização de produtos."
+      ]
+    }
+  ],
+  "formacao": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Uniube",
+      "periodo": "03/2023 - 12/2025",
+      "status": "Cursando"
+    },
+    {
+      "curso": "Bacharelado em Administração Pública",
+      "instituicao": "Universidade Federal de São João Del Rei",
+      "periodo": "07/2017 - 07/2021",
+      "status": "Formado"
+    },
+    {
+      "curso": "Ensino Médio",
+      "instituicao": "Escola Estadual Visconde de Arantes",
+      "periodo": "01/2012 - 01/2014",
+      "status": "Concluído"
+    }
+  ],
+  "habilidades": [
+    "Facilidade de aprendizagem de novas funções",
+    "Domínio do uso de computadores e impressoras",
+    "Proatividade diante das demandas diárias",
+    "Iniciativa para o aprendizado contínuo",
+    "Familiaridade com atividades administrativas",
+    "Familiaridade com os sistemas operacionais Windows e Linux",
+    "Familiaridade com linguagens de programação",
+    "Conhecimento de sistemas operacionais e banco de dados SQL Server"
+  ],
+  "certificacoes": [
+    "Certificação Cisco em Redes",
+    "Certificação em Banco de Dados I e II pela ORACLE ACADEMY",
+    "Nivelamento, Programa Hackers do Bem - Formação em Cibersegurança"
+  ]
+}
