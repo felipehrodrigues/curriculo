@@ -1,0 +1,107 @@
+body {
+    background-color: #F5F7FA ;
+}
+
+body p {
+    text-align: justify;
+}
+
+.conteudo {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+}
+
+.meu_nome {
+    color: white;
+}
+
+.lista_redes {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    color: white;
+}
+
+.lista_redes a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.subtitulo {
+    color: #0f172a;
+}
+
+.subtitulo_local {
+    color: #0f172a;
+}
+
+.cabeçalho {
+    padding: 10em 1em;
+    background: linear-gradient(135deg, #0f172a, #3b82f6);
+    color: white;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.cabeçalho img {
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff; /* Borda branca fina */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); /* Brilho sutil */
+}
+
+.resumo {
+    background-color: #f0f4ff;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    font-style: italic;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    text-align: center;
+  }
+
+.formacao {
+    margin-top: 3em;
+}
+
+.habilidades {
+    margin-top: 3em;
+}
+
+.habilidades_lista {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+}
+
+.certificacoes_lista {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+}
+
+
+.certificacoes {
+    margin-top: 3em;
+}
+
+.meu_historico {
+    margin: 0em 1em;
+    padding: 2em;
+}
+
+.icone {
+    margin-right: 0.5em;
+}
