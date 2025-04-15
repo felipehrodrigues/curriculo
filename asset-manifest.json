@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/felipehrodrigues/curriculo/static/css/main.881c1817.css",
-    "main.js": "/felipehrodrigues/curriculo/static/js/main.9f24e95d.js",
-    "static/js/453.7e8343ac.chunk.js": "/felipehrodrigues/curriculo/static/js/453.7e8343ac.chunk.js",
-    "static/media/logo.svg": "/felipehrodrigues/curriculo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/felipehrodrigues/curriculo/index.html",
-    "main.881c1817.css.map": "/felipehrodrigues/curriculo/static/css/main.881c1817.css.map",
-    "main.9f24e95d.js.map": "/felipehrodrigues/curriculo/static/js/main.9f24e95d.js.map",
-    "453.7e8343ac.chunk.js.map": "/felipehrodrigues/curriculo/static/js/453.7e8343ac.chunk.js.map"
+    "main.css": "/curriculo/static/css/main.881c1817.css",
+    "main.js": "/curriculo/static/js/main.1d07dc97.js",
+    "static/js/453.7e8343ac.chunk.js": "/curriculo/static/js/453.7e8343ac.chunk.js",
+    "static/media/logo.svg": "/curriculo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/curriculo/index.html",
+    "main.881c1817.css.map": "/curriculo/static/css/main.881c1817.css.map",
+    "main.1d07dc97.js.map": "/curriculo/static/js/main.1d07dc97.js.map",
+    "453.7e8343ac.chunk.js.map": "/curriculo/static/js/453.7e8343ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.881c1817.css",
-    "static/js/main.9f24e95d.js"
+    "static/js/main.1d07dc97.js"
   ]
 }
