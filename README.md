@@ -8,7 +8,7 @@ Este é o meu currículo online desenvolvido com React, publicado via GitHub Pag
 
 ## ✨ Sobre o Projeto
 
-Este projeto é uma aplicação React que exibe meu currículo de forma interativa e responsiva.  
+Este projeto é uma aplicação React que exibe meu currículo.
 Os dados são carregados dinamicamente a partir de um arquivo JSON localizado na pasta `public`.
 
 ## 🚀 Tecnologias Utilizadas
