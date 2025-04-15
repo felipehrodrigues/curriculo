@@ -4,6 +4,8 @@ Este é o meu currículo online desenvolvido com React, publicado via GitHub Pag
 
 🔗 **Acesse aqui:** [https://felipehrodrigues.github.io/curriculo](https://felipehrodrigues.github.io/curriculo)
 
+[![GitHub Pages](https://img.shields.io/badge/Ver%20no-GitHub%20Pages-blue?style=flat-square&logo=github)](https://felipehrodrigues.github.io/curriculo)
+
 ## ✨ Sobre o Projeto
 
 Este projeto é uma aplicação React que exibe meu currículo de forma interativa e responsiva.  
