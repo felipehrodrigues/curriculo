@@ -10,7 +10,7 @@ function Curriculo() {
   const [erro, setErro] = useState(null);
 
   useEffect(() => {
-    fetch("/curriculo.json")
+    fetch(`${process.env.PUBLIC_URL}/curriculo.json`)
       .then((res) => {
         if (!res.ok) {
           throw new Error("Erro ao carregar o curriculo");
@@ -33,7 +33,7 @@ function Curriculo() {
   return (
     <div className={styles.conteudo}>
       <div className={styles.cabeçalho}>
-        <img src="/felipe-perfil.jpg" alt="Felipe Rodrigues" />
+        <img src={`${process.env.PUBLIC_URL}/felipe-perfil.jpg`} alt="Felipe Rodrigues" />
         <h1 className={styles.meu_nome}> {dados.nome}</h1>
         <p>{dados.endereco}</p>
         <p>{dados.email}</p>
